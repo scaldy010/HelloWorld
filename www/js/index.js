@@ -50,6 +50,6 @@ var app = {
 };
 
 function shake(){
-    navigator.vibrate(1000);
+    navigator.vibrate(100);
 }
 
